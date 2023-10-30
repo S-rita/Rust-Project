@@ -1,0 +1,26 @@
+============= All TASKS ============
+Pending Task Count: 2
+----------
+Task ID: 2
+Description: exam
+Priority: 3
+Deadline: "09-09-2022"
+Status: Pending
+----------
+----------
+Task ID: 3
+Description: project
+Priority: 5
+Deadline: "11-11-2022"
+Status: Pending
+----------
+
+Completed Task Count: 1
+----------
+Task ID: 1
+Description: homework
+Priority: 2
+Deadline: "02-02-2022"
+Status: Completed
+----------
+====================================
